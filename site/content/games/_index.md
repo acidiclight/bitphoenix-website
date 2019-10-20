@@ -8,11 +8,9 @@ goal:
     buttonLink: "https://github.com/bitphoenixsoftware"
     imageUrl: /img/github-org.png
 main:
-  heading: "Our games"
-  description: "All of our games are, of course, completely free and open-source. We will never force you to pay us to be able to play any of our games. Here's a few games we're working on:"
-  image1:
-    alt: "The Peacenet"
-    image: /img/the-peacenet.png
+  heading: "Peace Engine"
+  description: "Peace Engine is our signature open-source modular game engine.  It is written in .NET Core 3 on-top of MonoGame. Peace Engine is specifically designed for our stealth hacking game, The Peacenet. More information coming soon."
+full_image: /img/peacenet-promo-old.png
 ---
 
 ## The Peacenet
