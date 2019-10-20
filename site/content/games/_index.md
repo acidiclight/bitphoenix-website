@@ -14,7 +14,7 @@ full_image: /img/peacenet-promo-old.png
 peacenet:
   heading: "Welcome to The Peacenet."
   description: "The Peacenet is our open-source stealth hacking game where you use the Peacegate OS, an Ubuntu-based distribution, to enter a dystopian digital society as an undercover government operative.  You're on a mission to find the origin of, and put an end to, a piece of mind-altering malware that's spreading throughout the members of this world."
-  disclaimer: "The above screenshot is old and does not represent the work-in-progress Peace Engine port."
+  disclaimer: "Disclaimer: The above screenshot is old and does not represent the work-in-progress Peace Engine port."
 ---
 
 ![The Peacenet logo](/img/the-peacenet.png)
