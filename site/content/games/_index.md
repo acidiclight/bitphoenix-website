@@ -3,18 +3,17 @@ title: Games
 image: /img/they-will-never-know.png
 intro:
   blurbs:
-    - image: /img/the-peacenet.png
+    - heading: "See, use, or modify the code"
+      image: /img/github-org.png
       text: >
-        Use the Peacegate Operating System, a Debian-based distribution, to enter
-        a dystopian digital society as an undercover government operative on a
-        mission to discover the origin of a piece of mind-altering malware and to
-        find a lost friend buried deep in the system before the malware takes over.
-  heading: Our games
+        You are completely free - for any of our games or projects - to use, look at,
+        modify, compile, adapt, port, or otherwise interact with our code. 
+  heading: Our goal
   description: >
-    All of our games are completely free and open-source - free to play, free to
-    mod, free to use our code in your own work, or maybe you just want to see how
-    we did it.  All of our games can either be compiled from source for your platform
-    or downloaded from our itch.io page for free. 
+    Our goal at Bit Phoenix is not necessarily to gain money.  As such, we're using
+    various pieces of free and open-source technology to ensure our presence costs
+    as little as possible - so you aren't forced to pay for it.  This also means
+    that all of our games are completely free and open-source.
 main:
   heading: Great coffee with no compromises
   description: >
