@@ -16,20 +16,10 @@ history:
   - heading: "ShiftSyndicate"
     text: "In mid 2017, the ShiftOS team had grown once again, with Michael still in charge. With help from Phil, the game's community was able to grow once again too. Things were looking great until we attracted the attention of SpamSyndicate, otherwise known as ShiftSyndicate, who took our website for ransom as a scare tactic to get us to quit development. We didn't listen."
     imageUrl: "/img/spamsyndicate.png"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+  - heading: "ShiftOS's demise, our birth"
+    text: "While it wasn't because of SpamSyndicate, we eventually did need to stop development of ShiftOS. The game had gained a notoriously bad reputation and it just wasn't worth it.  We decided as a team to rebrand ourselves as Watercolor Games, and begin work on our first project - Project: Plex - which would eventually become The Peacenet."
+    imageUrl: "/img/watercolor.png"
+  - heading: "A true identity"
+    text: "Eventually we felt that Watercolor Games was not a true representation of who we are.  We had already came up with a name for The Peacenet, and named its engine the Peace Engine, but we still had to name ourselves something that made sense to us. We determined that the Phoenix was a perfect representation of our history, and the community had voted on our name, Bit Phoenix Software.  So here we are."
+    imageUrl: "/img/phoenix-wallpaper.png"
 ---
