@@ -2,8 +2,9 @@
 title: Games
 image: /img/they-will-never-know.png
 goal:
-    heading: "Open-source philosophy"
-    buttonText: "See our code"
+    heading: "Look to your right..."
+    text: "See that image over there? That's a GitHub organization. Who's GitHub organization is that? It's ours. What's on it? The source code of everything we've made that we use. Why? Because we want you to see it. We want you to use it, to modify it, to adapt it to any of your own projects, or whatever you desire. Go ahead. It's right there!"
+    buttonText: "Steal our code"
     buttonLink: "https://github.com/bitphoenixsoftware"
     imageUrl: /img/github-org.png
 ---
