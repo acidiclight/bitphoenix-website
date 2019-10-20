@@ -7,6 +7,12 @@ goal:
     buttonText: "Steal our code"
     buttonLink: "https://github.com/bitphoenixsoftware"
     imageUrl: /img/github-org.png
+main:
+  heading: "Our games"
+  description: "All of our games are, of course, completely free and open-source. We will never force you to pay us to be able to play any of our games. Here's a few games we're working on:
+  image1:
+    alt: "The Peacenet"
+    image: /img/the-peacenet.png
 ---
 
 ## The Peacenet
