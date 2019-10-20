@@ -10,22 +10,12 @@ history:
   - heading: "Early roots"
     text: "Our roots go back to late 2014 from the days of the ShiftOS forums.  Originally developed by Australian YouTuber and programmer Philip Adams, ShiftOS was a game where you were thrown into an experimental operating system and your aim was to try to perform various tasks in the OS so you could earn Codepoints which could be exchanged at the Shiftorium for new programs and OS features. The goal was to upgrade the OS to something more modern and to find the secret behind its mysterious developer, DevX."
     imageUrl: "/img/shiftos-old.png"
-  - heading: "Single origin"
-    text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
+  - heading: "The Handover"
+    text: "Phil's development of ShiftOS was halted and development was handed over to a few members of the community.  One such member happened to be Michael, back then known as ThePCTransformer.  2015 saw the development of ShiftOS-Next as Michael became the lead, and soon only, developer. Eventually, in 2016, the game was ported to C# and the UI completely redesigned, with one of the final results being this image."
+    imageUrl: "/img/shiftos-newish.png"
+  - heading: "ShiftSyndicate"
+    text: "In mid 2017, the ShiftOS team had grown once again, with Michael still in charge. With help from Phil, the game's community was able to grow once again too. Things were looking great until we attracted the attention of SpamSyndicate, otherwise known as ShiftSyndicate, who took our website for ransom as a scare tactic to get us to quit development. We didn't listen."
+    imageUrl: "/img/spamsyndicate.png"
   - heading: "Direct sourcing"
     text: >
       We want to truly empower the communities that bring amazing
