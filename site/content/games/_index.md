@@ -3,10 +3,6 @@ title: Games
 image: /img/they-will-never-know.png
 goal:
     heading: "Open-source philosophy"
-    imageUrl: "/img/github-org.png"
-    text: "Our belief at Bit Phoenix is that you, the player, shouldn't be forced to pay for our ability to exist if you don't want to.  As such, we've used several pieces of free and open-source technology to power our website and development workflow.  To pay back the open-source community, all of our games, our Peace Engine, our website, and anything else we've written is completely free to use, free and open-source."
-    buttonLink: "https://github.com/bitphoenixsoftware"
-    buttonText: "See our code"
 ---
 
 ## The Peacenet
