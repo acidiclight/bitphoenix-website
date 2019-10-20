@@ -11,11 +11,10 @@ main:
   heading: "Peace Engine"
   description: "Peace Engine is our signature open-source modular game engine.  It is written in .NET Core 3 on-top of MonoGame. Peace Engine is specifically designed for our stealth hacking game, The Peacenet. More information coming soon."
 full_image: /img/peacenet-promo-old.png
+peacenet:
+  heading: "Welcome to The Peacenet."
+  description: "**The Peacenet** is our open-source stealth hacking game where you use the *Peacegate OS*, an Ubuntu-based distribution, to enter a dystopian digital society as an undercover government operative.  You're on a mission to find the origin of, and put an end to, a piece of mind-altering malware that's spreading throughout the members of this world."
 ---
-
-## The Peacenet
-
-**The Peacenet** is our open-source stealth hacking game where you use the *Peacegate OS*, an Ubuntu-based distribution, to enter a dystopian digital society as an undercover government operative.  You're on a mission to find the origin of, and put an end to, a piece of mind-altering malware that's spreading throughout the members of this world.
 
 ![The Peacenet logo](/img/the-peacenet.png)
 
