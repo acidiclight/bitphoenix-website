@@ -4,7 +4,7 @@
 
 		<h2 class="f2 b lh-title mb3">{{.heading}}</h2>
 		<p class="mw6">{{.description}}</p>
-
+		<p class="mw6"><small><em>{{.disclaimer}}</em></small></p>
 		<div class="flex-ns mhn2-ns mw7">
 			{{ range .plans }}
 			<div class="w-33-ns ph2">{{ partial "table-column" . }}</div>
