@@ -1,73 +1,19 @@
 ---
 title: Games
 image: /img/they-will-never-know.png
-intro:
-  blurbs:
-    - heading: "See, use, or modify the code"
-      image: /img/github-org.png
-      text: >
-        You are completely free - for any of our games or projects - to use, look at,
-        modify, compile, adapt, port, or otherwise interact with our code. 
-  heading: Our goal
-  description: >
-    Our goal at Bit Phoenix is not necessarily to gain money.  As such, we're using
-    various pieces of free and open-source technology to ensure our presence costs
-    as little as possible - so you aren't forced to pay for it.  This also means
-    that all of our games are completely free and open-source.
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
 ---
 
+## The Peacenet
 
+**The Peacenet** is our open-source stealth hacking game where you use the *Peacegate OS*, an Ubuntu-based distribution, to enter a dystopian digital society as an undercover government operative.  You're on a mission to find the origin of, and put an end to, a piece of mind-altering malware that's spreading throughout the members of this world.
+
+![The Peacenet logo](/img/the-peacenet.png)
+
+### Get Peacegate OS
+
+ - Virtual machine image: [Download from Itch](https://bitphoenixsoftware.itch.io/the-peacenet)
+ - Source code: [GitHub repo](https://github.com/bitphoenixsoftware/the-peacenet) | [Developer resources](https://dev.bitphoenixsoftware.com/the-peacenet)
+
+## What in God's name is that artwork up there?
+
+That's for you to figure out.  We'll give you a hint - it's from our past.  It's of a game we used to work on before we were known as Bit Phoenix.  That should be a pretty good hint.
