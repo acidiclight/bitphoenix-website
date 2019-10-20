@@ -18,7 +18,7 @@ history:
     imageUrl: "/img/spamsyndicate.png"
   - heading: "ShiftOS's demise, our birth"
     text: "While it wasn't because of SpamSyndicate, we eventually did need to stop development of ShiftOS. The game had gained a notoriously bad reputation and it just wasn't worth it.  We decided as a team to rebrand ourselves as Watercolor Games, and begin work on our first project - Project: Plex - which would eventually become The Peacenet."
-    imageUrl: "/img/watercolor.png"
+    imageUrl: "/img/watercolor.bmp"
   - heading: "A true identity"
     text: "Eventually we felt that Watercolor Games was not a true representation of who we are.  We had already came up with a name for The Peacenet, and named its engine the Peace Engine, but we still had to name ourselves something that made sense to us. We determined that the Phoenix was a perfect representation of our history, and the community had voted on our name, Bit Phoenix Software.  So here we are."
     imageUrl: "/img/phoenix-wallpaper.png"
