@@ -4,6 +4,7 @@ image: /img/they-will-never-know.png
 goal:
     heading: "Open-source philosophy"
     buttonText: "See our code"
+    buttonLink: "https://github.com/bitphoenixsoftware"
     imageUrl: /img/github-org.png
 ---
 
