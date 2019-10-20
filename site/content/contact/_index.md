@@ -1,19 +1,19 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/logo.png"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Report a bug
+    text: "The best place to report a bug or issue with any of our games or utilities is to do so in the Issues tab of the relevant GitHub repository."
+  - heading: Chat with us
+    text: "Join our Discord server - you can chat with the entire community as well as the development team."
+  - heading: Subreddit
+    text: "Join our Subreddit, r/bitphoenixsoftware, to post and see news about any of our games and also get in touch with us."
+  - heading: Social media
+    text: "If you're on Mastodon or Twitter, we have those too."
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Want to get in touch with us about something? We'd love to hear what you have to say.  There are several ways to contact us depending on what you intend to say or do.
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
+<h3 class="f4 b lh-title mb2">How can I get in touch?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+You can also send us a good old email if you're old-fashioned like that.  Either fill out the form below to send us an email, or email team@bitphoenixsoftware.com on your own.  Failing that, you can reach Michael directly at theplexgate@gmail.com.
