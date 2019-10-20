@@ -1,6 +1,5 @@
 ---
-title: Our Coffee
-type: products
+title: Games
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
