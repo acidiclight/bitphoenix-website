@@ -1,20 +1,42 @@
 ---
-title: "Bit Phoenix Software"
-subtitle: "The gamedev team that rose up from the ashes of its predecessor."
+title: Bit Phoenix Software
+subtitle: The gamedev team that rose up from the ashes of its predecessor.
 image: /img/home-jumbotron.png
 blurb:
-    heading: Welcome
-    text: "Bit Phoenix Software is a small indie game development team that rose up from the ashes of its predecessor, the ShiftOS community."
+  heading: Welcome
+  text: >-
+    Bit Phoenix Software is a small indie game development team that rose up
+    from the ashes of its predecessor, the ShiftOS community.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Our main projects
+  text: >-
+    Everything we do is open-source.  This website, our games, any utilities we
+    write, all of it is open-source.  Here's some of what we do:
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/the-peacenet.png
+    text: >-
+      Enter a dystopian digital society as an undercover government operative
+      using the Peacegate Operating System.  You're on a mission to find the
+      origin of, and hopefully stop, the spreading of a piece of mind-altering
+      malware and to find a lost friend buried deep in the system before the
+      malware takes over.
+  - image: /img/peaceengine.png
+    text: >-
+      Built to run The Peacenet, Peace Engine is our work-in-progress .NET Core
+      3.0 game engine, built with a modern UI system and modular architecture.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our philosophy
+  text: >-
+    Most gamedev teams charge money for their games, the reasoning is obvious.
+    You have to keep the lights on somehow. However, we've decided to do our
+    best to avoid charging you an arm and a leg to keep us alive.
+
+
+    This requires the usage of a lot of free and open-source services, so we've
+    decided to pay back the open-source community by making our own products and
+    services completely free and open-source. We will never make you pay to use
+    our software and we'll never introduce ads into our UI. We don't believe in
+    microtransactions either. You can choose to pay us if you feel we deserve
+    it, but we'll never force you to.
 ---
 
