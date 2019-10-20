@@ -1,15 +1,15 @@
 ---
 title: "About us"
 image: /img/about-jumbotron.png
-values:
-  - heading: "Shade-grown coffee"
-    text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
+intro:
+  heading: "Who are we?"
+  description: "We're a small open-source indie game dev team started by Michael VanOverbeek in 2017 from the ashes of the ShiftOS community.  With a new team, new skills, and a new vision, we set out to accomplish what ShiftOS never could."
+  image: /img/logo.png
+  text: "Our logo, known simply as the Bit Phoenix, along with our name, is derived from Greek mythology and represents our history as the ShiftOS development team.  The stylization of bit::phoenix(\"software\"); is meant to represent a C++ function call."
+history:
+  - heading: "Early roots"
+    text: "Our roots go back to late 2014 from the days of the ShiftOS forums.  Originally developed by Australian YouTuber and programmer Philip Adams, ShiftOS was a game where you were thrown into an experimental operating system and your aim was to try to perform various tasks in the OS so you could earn Codepoints which could be exchanged at the Shiftorium for new programs and OS features. The goal was to upgrade the OS to something more modern and to find the secret behind its mysterious developer, DevX."
+    imageUrl: "/img/shiftos-old.png"
   - heading: "Single origin"
     text: >
       Single-origin coffee is coffee grown within a single known
