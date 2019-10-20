@@ -1,6 +1,6 @@
 ---
-title: "Values"
-image: /img/about-jumbotron.jpg
+title: "About us"
+image: /img/about-jumbotron.png
 values:
   - heading: "Shade-grown coffee"
     text: >
