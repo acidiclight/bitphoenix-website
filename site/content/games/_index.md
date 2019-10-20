@@ -21,7 +21,3 @@ peacenet:
 
  - Virtual machine image: [Download from Itch](https://bitphoenixsoftware.itch.io/the-peacenet)
  - Source code: [GitHub repo](https://github.com/bitphoenixsoftware/the-peacenet) | [Developer resources](https://dev.bitphoenixsoftware.com/the-peacenet)
-
-## What in God's name is that artwork up there?
-
-That's for you to figure out.  We'll give you a hint - it's from our past.  It's of a game we used to work on before we were known as Bit Phoenix.  That should be a pretty good hint.
