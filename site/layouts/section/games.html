@@ -4,7 +4,7 @@
 
 {{ partial "4-up" .Params.intro }}
 
-{{ partial "text-and-image" (dict "heading" .Params.goal.heading "text" Params.goal.text "imageUrl" Params.goal.imageUrl "buttonText" Params.goal.buttonText "buttonLink" Params.goal.buttonLink ) }}
+{{ partial "text-and-image" (dict "heading" .Params.goal.heading "text" .Params.goal.text "imageUrl" .Params.goal.imageUrl "buttonText" .Params.goal.buttonText "buttonLink" .Params.goal.buttonLink ) }}
 
 {{ with .Params.main }}
 <div class="mw7 center">
