@@ -17,8 +17,6 @@ peacenet:
   disclaimer: "Disclaimer: The above screenshot is old and does not represent the work-in-progress Peace Engine port."
 ---
 
-![The Peacenet logo](/img/the-peacenet.png)
-
 ### Get Peacegate OS
 
  - Virtual machine image: [Download from Itch](https://bitphoenixsoftware.itch.io/the-peacenet)
