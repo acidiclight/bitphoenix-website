@@ -3,6 +3,7 @@ title: Games
 image: /img/they-will-never-know.png
 goal:
     heading: "Open-source philosophy"
+    buttonText: "See our code"
     imageUrl: /img/github-org.png
 ---
 
